@@ -1,0 +1,2 @@
+This document has nothing use but 
+only to practice how to use git and Linux command.
